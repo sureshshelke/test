@@ -3,3 +3,5 @@ welcom to git
 git is distributrd 
 
 svn is centralize
+
+SVN has one central repository –
