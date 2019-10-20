@@ -1,3 +1,5 @@
 welcom to git 
 
 git is distributrd 
+
+svn is centralize
